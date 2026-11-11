@@ -8,7 +8,7 @@ venv/
 env/
 
 # PyCharm 本地配置
-.idea/
+../.idea/
 
 # API密钥及环境变量
 .env
