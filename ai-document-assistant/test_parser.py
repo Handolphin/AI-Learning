@@ -5,6 +5,7 @@ from pathlib import Path
 from document_parser import extract_text_from_file
 
 
+
 # 1. 获取当前 Python 文件所在的目录
 project_dir = Path(__file__).parent
 
