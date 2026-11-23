@@ -1,0 +1,28 @@
+{
+  "source_filename": "test_meeting.pdf",
+  "task_name": "待办事项提取",
+  "saved_at": "2026-11-23T16:27:49.422205+08:00",
+  "result": {
+    "meeting_topic": "道路改造工程施工进度协调",
+    "tasks": [
+      {
+        "description": "完成路面铣刨工作",
+        "responsible_unit": "施工单位",
+        "deadline": "下周",
+        "source_excerpt": "计划于下周完成路面铣刨工作"
+      },
+      {
+        "description": "加强施工现场安全管理，重点做好施工区域围挡和交通疏导工作",
+        "responsible_unit": "施工单位",
+        "deadline": "持续开展",
+        "source_excerpt": "监理单位提出，施工单位应加强施工现场安全管理，重点做好施工区域围挡和交通疏导工作"
+      },
+      {
+        "description": "提交下一阶段施工进度计划，并明确各项工作的责任人员和完成时间",
+        "responsible_unit": "施工单位",
+        "deadline": "本周五前",
+        "source_excerpt": "建设单位要求施工单位在本周五前提交下一阶段施工进度计划，并明确各项工作的责任人员和完成时间"
+      }
+    ]
+  }
+}
